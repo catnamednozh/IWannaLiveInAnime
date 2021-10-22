@@ -1,2 +1,1 @@
-# IWannaLiveInAnime
-DECO3500 - I Wanna LIve in Anime - Team Project
+# I Wanna Live In Anime - The Orb
